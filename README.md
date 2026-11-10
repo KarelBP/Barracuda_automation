@@ -35,3 +35,6 @@ Barracuda remove object from group.xml => Remove an object reference from a grou
 Barracuda create access rule.xml => Create a simple access rule (pass) via Barracuda CC
 
 Barracuda delete access rule.xml => Delete an access rule via Barracuda CC
+
+### Credentials
+Alias Barracuda CC connection.xml => Connection & Credential Alias used in actions
