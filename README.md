@@ -13,7 +13,7 @@ Barracuda get named IPv4 networks.xml => Get names of IPv4 networks from Global 
 
 Barracuda look up network name.xml => Look up names of networks from the cmdb_ci_ip_network table which don't have their names set
 
-Barracuda rename discovered IP networks.xml => Flow to trigger renaming of records in IP networks table (cmdb_ci_ip_networks).
+Barracuda rename discovered IP networks.xml => Flow to trigger renaming of records in IP networks table (cmdb_ci_ip_network).
 
 Barracuda rename network ranges.xml => Flow to trigger renaming of records in Discovery Range Sets table (discovery_range).
 
