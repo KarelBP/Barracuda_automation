@@ -1,5 +1,5 @@
 # Barracuda automation
-Automation for Barracuda CloudGen Firewalls via Control Center, driven from ServiceNow. The XML files are update sets.
+Prototype of automation for Barracuda CloudGen Firewalls via Control Center, driven from ServiceNow. The XML files are update sets. Developed using CGF & CC 10.5, but it's quite possible it works with older versions too.
 
 ## Files
 
