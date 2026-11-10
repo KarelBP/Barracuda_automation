@@ -1,12 +1,12 @@
 # Barracuda automation
-Automation building blocks for Barracuda Control Center, driven from ServiceNow. The XML files are update sets.
+Automation for Barracuda CloudGen Firewalls via Control Center, driven from ServiceNow. The XML files are update sets.
 
 ## Files
 
 ### Catalog Items
-Barracuda rename IP networks.xml => (description)
+Barracuda rename IP networks.xml => Identify networks in IP networks (cmdb_ci_ip_network) and populate their names from Global Firewall Objects in Barracuda CC.
 
-Barracuda rename networks in discovery ranges.xml => (description)
+Barracuda rename networks in discovery ranges.xml => Identify networks in discovery ranges (discovery_range_item) and populate their names from Global Firewall Objects in Barracuda CC.
 
 ### Flows
 Barracuda get named IPv4 networks.xml => Get names of IPv4 networks from Global Firewall Objects/Policies in Barracuda CC
