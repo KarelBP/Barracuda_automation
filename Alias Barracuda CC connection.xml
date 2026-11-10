@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-11-10 21:45:41">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Alias Barracuda CC connection</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>c86264689760d3d0a4c3ba6de053afd8</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>karel.benes</sys_created_by>
+<sys_created_on>2026-11-10 21:45:40</sys_created_on>
+<sys_id>7133e82c9760d3d0a4c3ba6de053afc1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>karel.benes</sys_updated_by>
+<sys_updated_on>2026-11-10 21:45:40</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_alias_0f54e8d797449310a4c3ba6de053afd3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><description/><id>Alias_Barracuda_CC_connection</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>Alias_Barracuda_CC_connection</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>karel.benes</sys_created_by><sys_created_on>2026-10-25 14:23:03</sys_created_on><sys_id>0f54e8d797449310a4c3ba6de053afd3</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Alias_Barracuda_CC_connection</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_alias_0f54e8d797449310a4c3ba6de053afd3</sys_update_name><sys_updated_by>karel.benes</sys_updated_by><sys_updated_on>2026-11-10 21:43:05</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+<payload_hash>-2140781742</payload_hash>
+<remote_update_set display_value="Alias Barracuda CC connection">7133e82c9760d3d0a4c3ba6de053afc1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>karel.benes</sys_created_by>
+<sys_created_on>2026-11-10 21:45:40</sys_created_on>
+<sys_id>b533e82c9760d3d0a4c3ba6de053afc1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a1c76a26990000001</sys_recorded_at>
+<sys_updated_by>karel.benes</sys_updated_by>
+<sys_updated_on>2026-11-10 21:45:40</sys_updated_on>
+<table/>
+<target_name>Alias_Barracuda_CC_connection</target_name>
+<type>Connection &amp; Credential Aliases</type>
+<update_domain>global</update_domain>
+<update_guid>3b9224a87460d3d008c88f4bed28e0ff</update_guid>
+<update_guid_history>3b9224a87460d3d008c88f4bed28e0ff:-2140781742,2a9224a88760d3d0ab8eb21bbcd90c64:-2006995670,9274a01b7a449310c9eb3a90071a0fdb:-2140781742</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
