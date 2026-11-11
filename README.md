@@ -38,3 +38,8 @@ Barracuda delete access rule.xml => Delete an access rule via Barracuda CC
 
 ### Credentials
 Alias Barracuda CC connection.xml => Connection & Credential Alias used in actions
+
+## Articles
+[Fishing and Hunting](https://www.linkedin.com/pulse/fishing-hunting-karel-bene%25C5%25A1-uilof) - How to get a Barracuda into CMDB
+
+[Pure Maths](https://www.linkedin.com/pulse/pure-maths-karel-bene%25C5%25A1-ivhhf) - ServiceNow and Barracuda, part number two
